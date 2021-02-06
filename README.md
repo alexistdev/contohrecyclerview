@@ -1,7 +1,7 @@
 # contohrecyclerview
 contoh menampilkan recyclerview dari database dengan retrofit dan web codeigniter
 
-langkah-langkah instalasi:
+langkah-langkah instalasi.
 A.Install web :
   - import database
   - jalankan composer install
